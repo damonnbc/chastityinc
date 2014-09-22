@@ -477,7 +477,7 @@ $(function() { h5u_parallelism.init({
 							overlayOpacity: _.settings.popupOverlayOpacity,
 							popupCloserText: '',
 							popupLoaderText: '',
-							selector: '.thumb a',
+							selector: '.thumbs a',
 							usePopupCaption: true,
 							usePopupCloser: false,
 							usePopupDefaultStyling: false,
