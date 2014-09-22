@@ -574,8 +574,16 @@
 	#header
 	{
 		position: relative;
-		background: #d64760;
 		color: #fff;
+		vertical-align: center;
+	}
+
+	#header img
+	{
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	vertical-align: center;
 	}
 	
 		#header:before
